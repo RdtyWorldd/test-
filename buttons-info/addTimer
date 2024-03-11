@@ -1,0 +1,5 @@
+добавить кнопки    addButtons
+показать пост    showPost
+изменить таймер    addTimer
+очистить    clearPost
+отправить    publicPost
